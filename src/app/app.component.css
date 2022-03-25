@@ -11,6 +11,7 @@ p {
   display: block;
   color: rgb(170, 114, 114);
   margin-bottom: 5px;
+  font-size: large;
 }
 
 .form-field input {
