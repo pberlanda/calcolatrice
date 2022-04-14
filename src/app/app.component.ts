@@ -13,6 +13,7 @@ export class AppComponent  {
   risultato: number;
 
   somma() {
+    //console.log('sono qui');
     this.risultato = this.operatore1 + this.operatore2;
   }
 

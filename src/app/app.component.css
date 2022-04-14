@@ -9,9 +9,9 @@ p {
 
 .form-field label {
   display: block;
-  color: rgb(170, 114, 114);
+  color: rgb(53, 18, 179);
   margin-bottom: 5px;
-  font-size: large;
+  font-size: 22px;
 }
 
 .form-field input {
@@ -19,14 +19,14 @@ p {
   border-radius: 3px;
   padding: 10px;
   margin-bottom: 5px;
-  font-size: 14px;
+  font-size: 20px;
   display: block;
   width: 75%;
 }
 .btn {
   width: 20%;
   padding: 10px;
-  background: #007bff;
+  background: #ff00c8;
   margin-bottom: 5px;
   border-bottom: 2px solid #007bff;
   border-top-style: none;
